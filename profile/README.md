@@ -2,6 +2,8 @@
 # Welcome to NodeSpace Hosting!
 We are a small, but growing, web hosting and IaaS provider based in Richmond, Virginia but we serve the world! We are proud supporters of open source software and this is our git mirror for most of our projects. 
 
+[Join our Community](https://community.nodespace.com) | [Visit our Website](https://www.nodespace.com)
+
 ## Frequently Asked Questions
 
 _**Git mirror?**_  
