@@ -2,12 +2,12 @@
 # Welcome to NodeSpace Hosting!
 We are a small, but growing, web hosting and IaaS provider based in Richmond, Virginia but we serve the world! We are proud supporters of open source software and this is our git mirror for most of our projects. 
 
-[Join our Community](https://community.nodespace.com) | [Visit our Website](https://www.nodespace.com)
+[Join our Community](https://forums.nodespace.com) | [Visit our Website](https://www.nodespace.com) | [Our Company - Hosting Intellect, LLC](https://www.hostingintellect.com)
 
 ## Frequently Asked Questions
 
 _**Git mirror?**_  
-Yes, this is our secondary repo. We primarily work from our Gitlab instance: https://gitlab.nodespace.com. Contributions to our open source projects can be made on Github and we'll pull them into our Gitlab instance. At the same time as we contribute, we will push to Github. 
+Yes, this is our secondary repo. We primarily work from our Gitlab instance: https://git.hostingintellect.com. Contributions to our open source projects can be made on Github and we'll pull them into our Gitlab instance. At the same time as we contribute, we will push to Github. 
 
 _**Some of this code can help competitors! Why are you doing this?**_  
 True, but unlike some of our colleagues, we believe that competition is healthy. While we'd love to be larger than GoDaddy, we're happy we're not.
