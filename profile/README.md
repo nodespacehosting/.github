@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nodespacehosting/.github/raw/main/profile/images/nodespace-light.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nodespacehosting/.github/raw/main/profile/images/nodespace-dark.png.png?raw=true">
-  <img alt="NodeSpace Hosting" src="https://github.com/nodespacehosting/.github/raw/main/profile/images/nodespace-light.png?raw=true" height="34">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nodespacehosting/.github/raw/main/profile/images/nodespace-dark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nodespacehosting/.github/raw/main/profile/images/nodespace-light.png.png?raw=true">
+  <img alt="NodeSpace Hosting" src="https://github.com/nodespacehosting/.github/raw/main/profile/images/nodespace-dark.png?raw=true" height="34">
 </picture>
 
 # Welcome to NodeSpace Hosting!
