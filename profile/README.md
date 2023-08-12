@@ -7,7 +7,7 @@
 # Welcome to NodeSpace Hosting!
 We are a small, but growing, web hosting and IaaS provider based in Richmond, Virginia but we serve the world! We are proud supporters of open source software and this is our git mirror for most of our projects. 
 
-[Visit our Website](https://www.nodespace.com) | [Our Company - NodeSpace Technologies, LLC](https://corporate.nodespace.com)
+[Visit our Website](https://www.nodespace.com) | [Our Company - NodeSpace Technologies, LLC](https://www.nodespace.tech)
 
 ## Frequently Asked Questions
 
